@@ -1,6 +1,13 @@
 # Linear Regression on Income Dataset
 
-This project implements a simple linear regression model to predict happiness based on income using a dataset. The goal of the model is to explore the relationship between income and happiness and evaluate the model's performance using various regression metrics.
+This project implements a simple linear regression model to predict happiness based on income using a dataset. The goal of the model is to explore the relationship between income and happiness and evaluate the model's performance using various regression metrics.   
+---
+# 🔗Links :
+## Kaggle Link : https://www.kaggle.com/code/himelsarder/linear-regression-metrics-on-income-dataset
+## Download Notebook output : https://www.kaggle.com/code/himelsarder/linear-regression-metrics-on-income-dataset/output
+## Dataset Link : https://www.kaggle.com/datasets/itsnasa/regressiondata   
+---
+![image](https://github.com/user-attachments/assets/6c8da8f0-f073-4eee-8a30-1b79d50c52ae)
 
 ## Table of Contents
 
