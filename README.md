@@ -81,3 +81,5 @@ The linear regression model successfully predicts happiness based on income. The
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Thank You
